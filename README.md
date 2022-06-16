@@ -20,6 +20,18 @@
   - fluttertoast
 
 
-<!-- | Splash | Home | No Internet |
+| Splash | Home | No Internet |
 |:------:|:-------:|:-------:|
-|![](./home.png)|![](./auth.png)|![](./auth.png)| -->
+|![](./splash.jpg)|![](./home1.jpg)|![](./noInternet.jpg)|
+
+| Quran | 
+|:------:|
+|![](./quran.png)|
+
+| Tasbih | Azkar | 
+|:------:|:------:|
+|![](./tasbih.png)|![](./azkar.png)|
+
+| Compass | Prayer Time | 
+|:------:|:------:|
+|![](./compass.png)|![](./prayer_time.png)|
