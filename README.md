@@ -34,4 +34,4 @@
 
 | Compass | Prayer Time | 
 |:------:|:------:|
-|![](./compass.png)|![](./prayer_time.png)|
+|![](./compass.jpg)|![](./prayer_time.jpg)|
