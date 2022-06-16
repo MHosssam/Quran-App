@@ -8,6 +8,9 @@
   - having compass .
   - make the tasbih easier .
 
+## APK
+https://www.mediafire.com/file/9rv73d7n5clzw5a/New_Quran.apk/file
+
 ## Packages
   - Dio
   - Lottie
